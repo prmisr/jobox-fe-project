@@ -1,0 +1,15 @@
+body{
+	font-family: "Roboto", sans-serif;
+}
+
+.download-btn{
+	pedding: 12px 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	curser: pointer;
+	transition: all 500ms ease;
+}
+
+.download-btn:hover{
+	transform: translateY(-4px);
+}
